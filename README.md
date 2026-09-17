@@ -1,5 +1,5 @@
 # 💫 About Me:
-Self-motivated Lead Software Developer.<br>Java | Spring Boot | Hibernate | <br>JPA | Microservices | AWS | MySQL |<br> PostgreSQL | MyBatis | Swagger | <br>SonarQube | Git | LLD | HLD | 5+ years of building robust.
+Self-motivated Lead Software Developer.<br>Java | Spring Boot | Hibernate | <br>JPA | Microservices | AWS | MySQL |<br> PostgreSQL | MyBatis | Swagger | <br>SonarQube | Git | LLD | HLD | <br> 5+ years of building robust.
 
 
 ## 🌐 Socials:
